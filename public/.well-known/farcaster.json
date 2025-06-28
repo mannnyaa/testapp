@@ -9,5 +9,10 @@
     "primaryCategory": "developer-tools",
     "splashImageUrl": "https://testapp-ruddy.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4MTk0NCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEQ2ZWMxQzgwMDUwNzM3RTk0MDliMERBYTY0NjI0MjA4YTE1QUI4QzgifQ",
+    "payload": "eyJkb21haW4iOiJ0ZXN0YXBwLXJ1ZGR5LnZlcmNlbC5hcHAifQ",
+    "signature": "MHgwYWU3OTMxZjFkZWI1NWU5N2M2ZTZjYjk2YTdjNTMwZWZjNWM4NzlhZjQ0YzA4NTdkYTExYTEwYjZiZmFkZDAwNDk5YWY4YzA1M2Y4NTQ0OTIyNDIxODkzMDIxYTkwMDdkODRlYjM5M2MzZTAxZTA5ZGEwNjUwMTYxOTZjM2FlMTFj"
   }
 }
