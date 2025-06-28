@@ -1,13 +1,13 @@
 {
   "frame": {
-    "name": "h",
+    "name": "testapp",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
+    "iconUrl": "https://testapp-ruddy.vercel.app/logo.png",
+    "homeUrl": "https://testapp-ruddy.vercel.app",
+    "subtitle": "testapp",
+    "description": "testapp",
+    "primaryCategory": "developer-tools",
+    "splashImageUrl": "https://testapp-ruddy.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
   }
 }
